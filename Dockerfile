@@ -1,4 +1,4 @@
-FROM python:3.6-alpine3.7
+FROM python:3.5-alpine
 
 # Upgrade and install basic Python dependencies
 # This block added because of the trouble installing gevent on many systems
